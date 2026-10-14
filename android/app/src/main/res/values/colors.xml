@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bege do favicon -->
+    <color name="ic_launcher_background">#D4C0A8</color>
+    <color name="black">#000000</color>
+</resources>

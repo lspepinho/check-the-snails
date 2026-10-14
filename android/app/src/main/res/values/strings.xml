@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nome exato do jogo no TurboWarp -->
+    <string name="app_name">VERIFIQUE OS CARACÓIS: The Game</string>
+</resources>
